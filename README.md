@@ -15,11 +15,11 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
     │ ├── tienda2.csv
     │ ├── tienda3.csv
     │ └── tienda4.csv
-    ├── AluraStoreLatam.ipynb
     ├── imagenes/
     │ ├── calor.png
     │ ├── rentabilidad de cada tienda en el tiempo.png
     │ └── torta.png
+    ├── AluraStoreLatam.ipynb
     └── README.md
 
 ## 📊 Objetivos del Proyecto
@@ -69,4 +69,4 @@ Adicional a lo anterior, la tienda 4 es la que aporta menos a la rentabilidad to
 
 1. Debería considerarse cerrar la tienda 4, ya que es la que menos aporta en ventas y tiene una rentabilidad decreciente en el tiempo.
 2. Dado que los gráficos de calor muestran que en el cuadrante lat 5 long -75 tiene una zona con un volumen de ventas muy alto debería considerarse abrir una nueva tienda en esa zona, lo que podría aumentar ventas y disminuir costos de despacho.
-3. La tienda 1, pese a su rendimiento deficiente, aporta el mayor porcentaje de rentabilidad. Se recomienda intervenirla eliminando del catálogo productos de bajo desempeño y capacitando al personal para mejorar la capacitación de los mismos. 
+3. La tienda 1, pese a su rendimiento deficiente, aporta el mayor porcentaje de rentabilidad. Se recomienda intervenirla eliminando del catálogo productos de bajo desempeño y capacitando al personal en categorías clave que aportan la mayor rentabilidad. 
