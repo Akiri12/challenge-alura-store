@@ -21,7 +21,6 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
     │ ├── calificacion.png
     │ ├── calor.png
     │ ├── rentabilidad de cada tienda en el tiempo.png
-    │ ├── rentabilidad por categoria.png
     │ └── torta.png
     └── README.md
 
