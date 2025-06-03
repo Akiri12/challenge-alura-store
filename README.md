@@ -24,10 +24,12 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
 
 ## 📊 Objetivos del Proyecto
 
-- Cargar datos de ventas desde archivos `.csv`
-- Limpiar y transformar los datos
-- Analizar ventas por categoría
-- Calcular promedios de gastos por categoría
+- Recomendar qué tienda debería cerrar
+- Calcular facturación total de cada tienda
+- Determinar categorías más populares
+- Calcular promedio de calificación de los clientes
+- Determinar productos más y menos vendidos
+- Calcular costo promedio de los envíos
 - Visualizar resultados de forma clara e intuitiva
 
 ---
@@ -38,7 +40,7 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
    ```bash
    git clone https://github.com/Akiri12/challenge-alura-store.git
    cd challenge-alura-store
-2. Abre el notebook en Google Colab desde el archivo notebooks/analisis_tiendas.ipynb.
+2. Abre el notebook en Google Colab desde el archivo AluraStoreLatam.ipynb.
 
 3. Asegúrate de que los archivos .csv estén disponibles en tu entorno.
 
