@@ -15,7 +15,7 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
     │ ├── tienda2.csv
     │ ├── tienda3.csv
     │ └── tienda4.csv
-    ├── AluraStoreLatam.ipynb.ipynb
+    ├── AluraStoreLatam.ipynb
     ├── imagenes/
     │ ├── calor.png
     │ ├── rentabilidad de cada tienda en el tiempo.png
