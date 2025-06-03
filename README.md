@@ -15,10 +15,8 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
     │ ├── tienda2.csv
     │ ├── tienda3.csv
     │ └── tienda4.csv
-    ├── notebooks/
-    │ ├── analisis_tiendas.ipynb
+    ├── AluraStoreLatam.ipynb.ipynb
     ├── imagenes/
-    │ ├── calificacion.png
     │ ├── calor.png
     │ ├── rentabilidad de cada tienda en el tiempo.png
     │ └── torta.png
@@ -64,9 +62,6 @@ Por otro lado, las líneas de tendencia muestran que tanto las tiendas 1 y 4 pre
 Adicional a lo anterior, la tienda 4 es la que aporta menos a la rentabilidad total de las 4 tiendas como se puede observar en este gráfico de torta. 
 
 ![Gráfico de rentabilidad como porcentaje del total](imagenes/torta.png)
-
-Por último, podemos ver que la tienda 1 tiene calificaciones menores que las otras tiendas.
-![Gráfico de rentabilidad como porcentaje del total](imagenes/calificacion.png)
 
 ## Conclusiones
 
