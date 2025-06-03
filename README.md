@@ -17,8 +17,12 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
     │ └── tienda4.csv
     ├── notebooks/
     │ ├── analisis_tiendas.ipynb
-    ├── img/
-    │ └── ejemplo_visualizacion.png
+    ├── imagenes/
+    │ ├── calificacion.png
+    │ ├── calor.png
+    │ ├── rentabilidad de cada tienda en el tiempo.png
+    │ ├── rentabilidad por categoria.png
+    │ └── torta.png
     └── README.md
 
 ## 📊 Objetivos del Proyecto
@@ -35,7 +39,7 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nombre-repo.git
+   git clone [https://github.com/tuusuario/nombre-repo.git](https://github.com/Akiri12/challenge-alura-store.git)
    cd nombre-repo
 2. Abre el notebook en Google Colab desde el archivo notebooks/analisis_tiendas.ipynb.
 
