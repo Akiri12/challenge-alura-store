@@ -40,7 +40,7 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/Akiri12/challenge-alura-store.git
-   cd nombre-repo
+   cd challenge-alura-store
 2. Abre el notebook en Google Colab desde el archivo notebooks/analisis_tiendas.ipynb.
 
 3. Asegúrate de que los archivos .csv estén disponibles en tu entorno.
@@ -65,6 +65,9 @@ Por otro lado, las líneas de tendencia muestran que tanto las tiendas 1 y 4 pre
 Adicional a lo anterior, la tienda 4 es la que aporta menos a la rentabilidad total de las 4 tiendas como se puede observar en este gráfico de torta. 
 
 ![Gráfico de rentabilidad como porcentaje del total](imagenes/torta.png)
+
+Por último, podemos ver que la tienda 1 tiene calificaciones menores que las otras tiendas.
+![Gráfico de rentabilidad como porcentaje del total](imagenes/calificacion.png)
 
 ## Conclusiones
 
