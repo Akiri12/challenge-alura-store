@@ -65,7 +65,9 @@ Adicional a lo anterior, la tienda 4 es la que aporta menos a la rentabilidad to
 
 ![Gráfico de rentabilidad como porcentaje del total](imagenes/torta.png)
 
-## Conclusiones
+---
+
+## ✅ Conclusiones
 
 1. Debería considerarse cerrar la tienda 4, ya que es la que menos aporta en ventas y tiene una rentabilidad decreciente en el tiempo.
 2. Dado que los gráficos de calor muestran que en el cuadrante lat 5 long -75 tiene una zona con un volumen de ventas muy alto debería considerarse abrir una nueva tienda en esa zona, lo que podría aumentar ventas y disminuir costos de despacho.
