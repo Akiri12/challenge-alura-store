@@ -10,7 +10,7 @@ El ejercicio consiste en **analizar los datos de ventas de cuatro tiendas** a pa
 
 ## 📂 Estructura del Repositorio
 
-    ├── data/
+    ├── base-de-datos-challenge1-latam/
     │ ├── tienda1.csv
     │ ├── tienda2.csv
     │ ├── tienda3.csv
